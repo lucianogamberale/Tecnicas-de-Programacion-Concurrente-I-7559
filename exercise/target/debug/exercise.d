@@ -1,0 +1,1 @@
+/home/luciano/Escritorio/Concurrentes/TpsSemanales/Tecnicas-de-Programacion-Concurrente-I-7559/exercise/target/debug/exercise: /home/luciano/Escritorio/Concurrentes/TpsSemanales/Tecnicas-de-Programacion-Concurrente-I-7559/exercise/src/main.rs
